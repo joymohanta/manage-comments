@@ -1,0 +1,11 @@
+.table-control{
+    margin-top: 20px;
+    margin-left: 208px;
+}
+/* .side-table{
+    margin-left: ;
+} */
+.table-align{
+    display: flex;
+    justify-content: space-evenly;
+}

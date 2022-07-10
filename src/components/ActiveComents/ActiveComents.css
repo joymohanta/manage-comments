@@ -7,11 +7,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 30px;
+    margin-right: 115px;
 }
 .input-field{
     border-radius: 25px;
     padding-left: 35px;
+    width: 180px;
 }
 .icon-size{
     height: 18px;
