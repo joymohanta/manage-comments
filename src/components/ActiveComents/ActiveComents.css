@@ -1,0 +1,22 @@
+.comment{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.comment-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+}
+.input-field{
+    border-radius: 25px;
+    padding-left: 35px;
+}
+.icon-size{
+    height: 18px;
+    width: 18px;
+    color: black;
+    margin-right: -28px;
+    z-index: 2;
+}
